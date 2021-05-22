@@ -38,12 +38,10 @@ function App() {
           </div>
         </Parallax>
       </div>
-      <Container className="container-box rounded">
         <Slide bottom duration={500}>
           <hr />
           <Highlights />
         </Slide>
-      </Container>
       <div>
         <Container className="container-box rounded">
           <Fade duration={500}>
