@@ -31,7 +31,7 @@ const Highlights = () => {
 
             </center>
             <div className="body-text-sub">
-            The students are admitted through the esteemed JEE Mains and represents the <span className="high">Top 2%</span> of the candidates that appear for the exam nationwide, they are handpicked from the garden of knowledge and critical thinking. These students are enriched with both qualitative and quantitative skills, thus they make up for the best in class.
+            Open Source Meetups like Ha[.sh] and Programs like Winter Of Code aim to promote participantion in Open Source Contribution and selection in programs like Google Summer of Code, Outreachy, RGSoC etc. Students actively participate in Open source programs and work on Open Source Projects of their own as well.
               </div>
           </Col>
           <Col sm={12} md={6}>
@@ -40,7 +40,7 @@ const Highlights = () => {
 
             </center>
             <div className="body-text-sub">
-            The students are admitted through the esteemed JEE Mains and represents the <span className="high">Top 2%</span> of the candidates that appear for the exam nationwide, they are handpicked from the garden of knowledge and critical thinking. These students are enriched with both qualitative and quantitative skills, thus they make up for the best in class.
+            Not only the Students from IIITT dominate the leaderboard on CodeChef, Hackerrank, HackerEarth, Topcoder but also we organize Global Coding Competitions and take up learning initiatives at IIITT like [Dev Streak]:Monthly coding competitions hosted by IIIT Trichy,[Cypher Ball] The code party: A global coding competition hosted by IIIT Trichy which includes top participants from International institutes.[bit_by_bit:] A “zero to hero” program to help students learn coding from scratch by building solid foundation in Data Structures and Algorithms.
               </div>
           </Col>
           <Col sm={12} md={6}>
@@ -49,7 +49,7 @@ const Highlights = () => {
 
             </center>
             <div className="body-text-sub">
-            The students are admitted through the esteemed JEE Mains and represents the <span className="high">Top 2%</span> of the candidates that appear for the exam nationwide, they are handpicked from the garden of knowledge and critical thinking. These students are enriched with both qualitative and quantitative skills, thus they make up for the best in class.
+            Aimed at making the students learn and experience the latest technologies and modern trends, it consists of highly experienced speakers and organizers from top companies and firms. Not only it helps the students sync with the modern trends but also help in chosing a better career path. Some of the recent talks were focussed on [Kafka Technologies], [Architecture of IOT and applications of it in various Industries with focus on cloud computing], [Microservices], [Digital marketing], [Automation and Autonomy:Past, Present and Future].
               </div>
           </Col>
           <Col sm={12} md={6}>
@@ -58,7 +58,7 @@ const Highlights = () => {
 
             </center>
             <div className="body-text-sub">
-            The students are admitted through the esteemed JEE Mains and represents the <span className="high">Top 2%</span> of the candidates that appear for the exam nationwide, they are handpicked from the garden of knowledge and critical thinking. These students are enriched with both qualitative and quantitative skills, thus they make up for the best in class.
+            IIIT Trichy is constituted by the best faculties of India who hold exceptional teaching skills and methodologies. Apart from delivering quality education, they motivate students to engage in cutting edge research and are highly inclined towards ideation and innovation.
               </div>
           </Col>
           <Col sm={12} md={6}>
@@ -67,7 +67,7 @@ const Highlights = () => {
 
             </center>
             <div className="body-text-sub">
-            The students are admitted through the esteemed JEE Mains and represents the <span className="high">Top 2%</span> of the candidates that appear for the exam nationwide, they are handpicked from the garden of knowledge and critical thinking. These students are enriched with both qualitative and quantitative skills, thus they make up for the best in class.
+            Participation in Extracurricular Activities throughout the year lead to 360 degree development of an individual. Some of them include Prothymos[Sports fest], Aahladh[Cultural fest], Atrang[Literature fest], other festive celebrations and awareness drives.
               </div>
           </Col>
         </Row>

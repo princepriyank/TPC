@@ -8,7 +8,6 @@ import Container from "react-bootstrap/Container";
 import Stats from "./pages/Stats/Stats.component";
 import Fade from "react-reveal/Fade";
 import Slide from "react-reveal/Slide";
-import ContactForm from "./pages/contact-form/contact-form.component";
 import { Parallax } from "react-parallax";
 import FooterPanel from "./components/footer/footer.component";
 import "./App.css";
@@ -61,15 +60,11 @@ function App() {
         </Container>
       </div>
       
-      <Container className="container-box rounded">
         <Fade duration={500}>
           <hr />
-          <ContactForm />
+          <FooterPanel />
         </Fade>
-      </Container>
-
-      <hr />
-      <FooterPanel />
+      
     </div>
     </div>
   );

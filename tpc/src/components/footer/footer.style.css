@@ -15,7 +15,13 @@ a {
 a:link {
   color: gray;
 }
-
+.detail {
+  padding-bottom: 30px;
+  color: rgb(197, 194, 194);
+}
+.detail:hover {
+  color: white;
+}
 a:visited {
   color: gray;
 }
