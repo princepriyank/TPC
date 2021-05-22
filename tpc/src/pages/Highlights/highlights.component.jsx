@@ -11,7 +11,7 @@ const Highlights = () => {
             Why Recruit at NITP?
           </h1>
         </div>
-        <div className="body-text">Our Vision is to achive "World Class Excellence in Information and Communication Technology" . We've embarked on a mission to impart Information Technology education to students and future leaders and engage in cutting edge technology research to meet the current needs and future challenges of India and the world at large.</div>
+        <div className="body-text">Our Vision is to achive "World Class Excellence in Information and Communication Technology" . We've embarked on a mission to impart Technology education to students and future leaders and engage in cutting edge technology research to meet the current needs and future challenges of India and the world at large.</div>
       <br/>
       <div className="body-text">
         <Container>
@@ -58,7 +58,7 @@ const Highlights = () => {
 
             </center>
             <div className="body-text-sub">
-            IIIT Trichy is constituted by the best faculties of India who hold exceptional teaching skills and methodologies. Apart from delivering quality education, they motivate students to engage in cutting edge research and are highly inclined towards ideation and innovation.
+            NIT Patna is constituted by the best faculties of India who hold<span className="high"> exceptional teaching skills and methodologies</span>. Apart from delivering quality education, they motivate students to engage in cutting edge research and are highly inclined towards ideation and innovation.
               </div>
           </Col>
           <Col sm={12} md={6}>
@@ -67,7 +67,7 @@ const Highlights = () => {
 
             </center>
             <div className="body-text-sub">
-            Participation in Extracurricular Activities throughout the year lead to 360 degree development of an individual. Some of them include Prothymos[Sports fest], Aahladh[Cultural fest], Atrang[Literature fest], other festive celebrations and awareness drives.
+            Participation in Extracurricular Activities throughout the year leads to 360 degree development of an individual. Our annual technical and cultural fest, <span className="high">Corona and Melange</span>, lets the students prepare hard and show their extra curricular skills.  Students also participate in<span className="high"> NSS and NCC</span> and spread awareness in the society.
               </div>
           </Col>
         </Row>

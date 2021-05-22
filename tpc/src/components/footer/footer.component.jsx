@@ -27,15 +27,14 @@ const FooterPanel = () => {
         <Image className="justify-content-end avatar" alt="profile" src={Profile} fluid  />
       <h4>Dr. Samrat Mukherji</h4>
       <span>Training And Placement Officer<br/>
-      <i class="fas fa-envelope-open" ></i>  Email: samrat@nitp.ac.in</span>
+        Email: samrat@nitp.ac.in</span>
       <br/>
           </Col>
           <Col sm={12} md={6}>
         <Image className="justify-content-end avatar" alt="profile" src={Profile2} fluid  />
       <h4>Dr. Shailesh M. pandey</h4>
       <span>
-      Training And Placement Officer<br/>
-      <i class="fas fa-envelope-open" ></i>  Email: smp.me@nitp.ac.in</span>
+      Training And Placement Officer<br/>  Email: smp.me@nitp.ac.in</span>
       <br/>
           </Col></Row>
           </Container>
