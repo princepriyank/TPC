@@ -6,6 +6,7 @@ import "./my-carousal.styles.css";
 const MyCarousal = () => {
   return (
     <div id="home">
+      <div className="overlay"></div>
           <img className="d-block w-100 custom-img" src={Slide2} alt="First slide" />
       <ScrollDown />
     </div>
