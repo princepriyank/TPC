@@ -1,7 +1,32 @@
-.footer-style {
-  background-color: #101018f8;
-  color: #fff;
-  font-size: 1.5em;
-  border: 2px solid #101018f8;
-  border-top-left-radius: 3px;
+/** @format */
+
+.footer {
+  width: 100%;
+  background-color: black;
+  padding: 50px;
+  color: white;
+}
+.text-sub {
+  color: gray;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  color: gray;
+}
+
+a:visited {
+  color: gray;
+}
+.avatar {
+  border-radius: 50%;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: gray;
 }
