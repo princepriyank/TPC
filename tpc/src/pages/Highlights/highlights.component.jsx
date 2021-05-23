@@ -11,7 +11,7 @@ const Highlights = () => {
             Why Recruit at NITP?
           </h1>
         </div>
-        <div className="body-text">Our Vision is to achive "World Class Excellence in Information and Communication Technology" . We've embarked on a mission to impart Technology education to students and future leaders and engage in cutting edge technology research to meet the current needs and future challenges of India and the world at large.</div>
+        <div className="body-text">Our Vision is to achive <span className="high">"World Class Excellence in Technology" </span>. We've embarked on a mission to impart Technology education to students and future leaders and engage in cutting edge technology research to meet the current needs and future challenges of India and the world at large.</div>
       <br/>
       <div className="body-text">
         <Container>

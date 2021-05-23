@@ -14,6 +14,12 @@
   padding-left: 30px;
   padding-right: 30px;
 }
+@media only screen and (max-width: 500px) {
+  .body-text {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
 .body-text-sub {
   color: gray;
   font-size: large;
