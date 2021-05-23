@@ -16,7 +16,8 @@ const About = () => {
           <Row className="pt-3 pb-5 align-items-center">
             <Col xs={12} md={6}>
               <Row className="justify-content-center mb-2 mr-2 ">
-                <Image className="profile justify-content-end" alt="profile" src={Profile} thumbnail fluid />
+                <div className="profile-div">
+                <Image className="profile justify-content-end" alt="profile" src={Profile} fluid /></div>
               </Row>
             </Col>
             <Col xs={12} md={6}>
@@ -28,7 +29,7 @@ It is one of the top 100 institutes (ranked 92) for engineering and technology i
 
 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
-                    <a href="#contact">
+                    <a href="#footer">
                       <Button className="m-2" variant="outline-primary">
                        Contact US
                       </Button>

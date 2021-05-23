@@ -7,7 +7,6 @@ import Highlights from "./pages/Highlights/highlights.component";
 import Container from "react-bootstrap/Container";
 import Stats from "./pages/Stats/Stats.component";
 import Fade from "react-reveal/Fade";
-import Slide from "react-reveal/Slide";
 import { Parallax } from "react-parallax";
 import FooterPanel from "./components/footer/footer.component";
 import "./App.css";
@@ -17,9 +16,10 @@ function App() {
   return (
     <div className="App">
      <div className="App" style={{ position: "relative" }}>
+     <MyNavbar />
       <MyCarousal />
       <MyTitleMessage />
-      <MyNavbar />
+      
 
       <div>
         <Parallax

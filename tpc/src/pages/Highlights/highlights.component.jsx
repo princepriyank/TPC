@@ -26,30 +26,31 @@ const Highlights = () => {
               </div>
           </Col>
           <Col sm={12} md={6}>
-            <center><i class="fas fa-code-branch icon fa-4x"></i><br/>
-            <h4 className="sub-heading">OPEN SOURCE CULTURE</h4>
-
-            </center>
-            <div className="body-text-sub">
-            Open Source Meetups like Ha[.sh] and Programs like Winter Of Code aim to promote participantion in Open Source Contribution and selection in programs like Google Summer of Code, Outreachy, RGSoC etc. Students actively participate in Open source programs and work on Open Source Projects of their own as well.
-              </div>
-          </Col>
-          <Col sm={12} md={6}>
             <center><i class="fas fa-code icon fa-4x"></i><br/>
             <h4 className="sub-heading">CODING CULTURE</h4>
 
             </center>
             <div className="body-text-sub">
-            Not only the Students from IIITT dominate the leaderboard on CodeChef, Hackerrank, HackerEarth, Topcoder but also we organize Global Coding Competitions and take up learning initiatives at IIITT like [Dev Streak]:Monthly coding competitions hosted by IIIT Trichy,[Cypher Ball] The code party: A global coding competition hosted by IIIT Trichy which includes top participants from International institutes.[bit_by_bit:] A “zero to hero” program to help students learn coding from scratch by building solid foundation in Data Structures and Algorithms.
+            Students from NIT Patna dominate the leader boards of Codechef, Codeforces, Hackerrank, Leetcode etc. Our Coding clubs regularly organises coding competitions on various platforms to help the students strengthen their coding skills. The <span className="high">Google Developer Student Clubs (DSC)</span> of NIT Patna and the <span className="high">Hackslash Club</span> powered by Mozilla frequently organise workshops on trending technologies in Machine learning and Web/Android Development. 
               </div>
           </Col>
+          <Col sm={12} md={6}>
+            <center><i class="fas fa-code-branch icon fa-4x"></i><br/>
+            <h4 className="sub-heading">Technical Clubs</h4>
+
+            </center>
+            <div className="body-text-sub">
+            NIT Patna has several technical clubs which help students to get expertise in their field of interest and also host regular contests on inter college level. The <span className="high"> American Society of Student Section (ASME)</span> of NIT Patna and the<span className="high">  SAE club</span> hold regular training and workshops for mechanical engineering. The <span className="high"> IEEE student branch </span>regularly hosts distinguished lectures , hardware hackathons and problem solving using R&D, IoT etc. The ISIE (Imperial Society of Innovative Engineers ) India NIT Patna works on renewable sources of energy. The <span className="high">  CESC clubs </span>conducts AutoCAD, design and drafting etc workshops for Civil engineering students.
+              </div>
+          </Col>
+         
           <Col sm={12} md={6}>
             <center><i class="fas fa-chart-line icon fa-4x"></i><br/>
             <h4 className="sub-heading">WORKSHOP AND INDUSTRIAL LECTURE</h4>
 
             </center>
             <div className="body-text-sub">
-            Aimed at making the students learn and experience the latest technologies and modern trends, it consists of highly experienced speakers and organizers from top companies and firms. Not only it helps the students sync with the modern trends but also help in chosing a better career path. Some of the recent talks were focussed on [Kafka Technologies], [Architecture of IOT and applications of it in various Industries with focus on cloud computing], [Microservices], [Digital marketing], [Automation and Autonomy:Past, Present and Future].
+            NIT Patna regularly conducts workshops, industrial lectures and Conferences for Mechanical, Civil, Electrical, Electronics and Computer Science Departments. Students get to interact with pioneers in the respective fields which not only helps them to find their interest but also helps them to choose better career options. Some of the latest workshops and conferences include<span className="high"> “Soft computing techniques”, “International Conference on renewable resources”, “Aatmanirbhar Bharat: A roadmap for inclusive growth” and “Deep learning and its applications”</span>.
               </div>
           </Col>
           <Col sm={12} md={6}>

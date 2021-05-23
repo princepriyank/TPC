@@ -1,7 +1,8 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 import styled from "styled-components";
-
+import Col from "react-bootstrap/Col";
+import Button from "react-bootstrap/Button";
 const MyTitleMessage = styled.h1`
   position: absolute;
   width: 100%;
@@ -29,6 +30,7 @@ const MyTitleMessage = styled.h1`
       letter-spacing: 2px;
     }
   }
+ 
 `;
 
 const TitleMessage = () => (
@@ -50,6 +52,23 @@ const TitleMessage = () => (
             }}
           />
         </div>
+        <Col className="d-flex justify-content-center flex-wrap">
+                  <div>
+                    <a href="#footer">
+                      <Button className="m-2" variant="outline-info">
+                       Contact US
+                      </Button>
+                    </a>
+                  </div>
+                  <div>
+                    <a href="https://drive.google.com/file/d/1ak6N26arrYtVso0FZrlLJAv98lhSLKqC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                      <Button className="m-2" variant="outline-info">
+                        Brochure
+                      </Button>
+                    </a>
+                  </div>
+                  
+                </Col>
       </div>
     </div>
   </MyTitleMessage>
