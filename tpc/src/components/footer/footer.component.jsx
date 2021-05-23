@@ -28,14 +28,14 @@ const FooterPanel = () => {
       <h4>Dr. Samrat Mukherjee</h4>
       <span>Training And Placement Officer<br/>
         Email: samrat@nitp.ac.in</span>
-      <br/>
+      <br/><br/>
           </Col>
           <Col sm={12} md={6}>
         <Image className="justify-content-end avatar" alt="profile" src={Profile2} fluid  />
       <h4>Dr. Shailesh M. pandey</h4>
       <span>
       Training And Placement Officer<br/>  Email: smp.me@nitp.ac.in</span>
-      <br/>
+      <br/><br/>
           </Col></Row>
           </Container>
       <br/>
@@ -51,18 +51,16 @@ const FooterPanel = () => {
               <h6>{detail.branch}</h6>
               
               <h6>Mobile: +91-{detail.mobile}</h6>
-              <a href={detail.email}>
-              <i class="fas fa-envelope-open icon" ></i>        </a>
-              {detail.linkedin?
-              <a href={detail.linkedin}>
-              <i class="fab fa-linkedin icon" ></i></a>: ""}
+              <h6>
+              Email id: <a href={detail.email} className="link">{detail.emailid}       </a></h6>
+              <h6>
+              Linkedin id: <a href={detail.linkedin} className="link">{detail.linkedinid}</a></h6>
               </div>
             </Col>
           ))}
           
             </Row>
             </Container>
-            <center>Made with love by Priyank</center>
     </div>
   );
 };

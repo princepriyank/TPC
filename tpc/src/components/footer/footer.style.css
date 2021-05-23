@@ -10,7 +10,7 @@
   color: gray;
 }
 a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 a:link {
   color: gray;
@@ -21,6 +21,9 @@ a:link {
 }
 .detail:hover {
   color: white;
+}
+.link {
+  text-decoration: none !important;
 }
 a:visited {
   color: gray;
