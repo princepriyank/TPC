@@ -1,5 +1,5 @@
 import React from "react";
-import Slide2 from "../../assets/img/carousal/nitp.png";
+import Slide2 from "../../assets/img/carousal/nitp.jpeg";
 import ScrollDown from "../scroll-down/scroll-down.component";
 import "./my-carousal.styles.css";
 
