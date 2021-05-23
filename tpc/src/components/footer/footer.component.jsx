@@ -15,8 +15,8 @@ const FooterPanel = () => {
       <a  href="tel:8750111166">
       <i class="fas fa-phone-alt">   Phone: +91: 8750111166</i>
       </a><br/>
-      <a href="mailto:tnp@nitp.ac.in">
-      <i class="fas fa-envelope-open" >  Email: tnp@nitp.ac.in</i>
+      <a href="mailto:tpc.tnp@nitp.ac.in">
+      <i class="fas fa-envelope-open" >  Email: tpc.tnp@nitp.ac.in</i>
       </a><br/>
       <a href="https://www.linkedin.com/company/73066757">
       <i class="fab fa-linkedin">  Linkedin: placementnitp</i>
@@ -25,7 +25,7 @@ const FooterPanel = () => {
       <Container>
         <Row><Col sm={12} md={6}>
         <Image className="justify-content-end avatar" alt="profile" src={Profile} fluid  />
-      <h4>Dr. Samrat Mukherji</h4>
+      <h4>Dr. Samrat Mukherjee</h4>
       <span>Training And Placement Officer<br/>
         Email: samrat@nitp.ac.in</span>
       <br/>
@@ -49,8 +49,13 @@ const FooterPanel = () => {
               <div class="detail">
               <h5>{detail.name}</h5>
               <h6>{detail.branch}</h6>
-              <h6>Email: {detail.email}</h6>
+              
               <h6>Mobile: +91-{detail.mobile}</h6>
+              <a href={detail.email}>
+              <i class="fas fa-envelope-open icon" ></i>        </a>
+              {detail.linkedin?
+              <a href={detail.linkedin}>
+              <i class="fab fa-linkedin icon" ></i></a>: ""}
               </div>
             </Col>
           ))}

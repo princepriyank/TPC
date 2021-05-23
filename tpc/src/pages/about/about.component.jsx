@@ -22,10 +22,11 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-              National Institute of Technology, Patna, also known as NIT Patna, is an Institute of National Importance .
+              National Institute of Technology, Patna , also known as NIT Patna, is an Institute of National Importance .<br/>
 NIT Patna marked its humble beginning in 1886 and it is the 6th Oldest Engineering Institute of India. It is an autonomous institute functioning directly under Ministry of Human Resource Development, Government of India. 
-It is one of the top 100 institutes (ranked 92) for engineering and technology in India  according to NIRF 2020 ranking.
-<br/>The students are admitted through the esteemed JEE Mains and represent the Top 1% of the candidates that appear for the exam nationwide, they are handpicked from the garden of knowledge and critical thinking. These students are enriched with both qualitative and quantitative skills, thus they make up for the best in class.
+<br/>It is one of the top 100 institutes (ranked 92) for engineering and technology in India  according to NIRF 2020 ranking. 
+<br/>NIT Patna offers undergraduate, post graduate and doctorate courses in Computer Science, Electronics and Communication, Electrical, Mechanical and Civil engineering. 
+
 
 <Col className="d-flex justify-content-center flex-wrap">
                   <div>

@@ -36,3 +36,6 @@ a:hover {
 a:active {
   color: gray;
 }
+.icon {
+  padding: 5px;
+}
