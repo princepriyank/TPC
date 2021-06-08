@@ -28,6 +28,8 @@ const FooterPanel = () => {
       </a><br/>
       <a href="https://www.linkedin.com/in/samrat-mukherjee-9348b0124"> Linkedin: @samrat-mukherjee-9348b0124
       </a><br/>
+      <a href="https://www.facebook.com/samrat.mukherjee.7737"> Facebook: @samrat.mukherjee.7737
+      </a><br/>
       <a href="tel:9973791523"> Mobile No.: 9973791523
       </a><br/>
         </span>
@@ -39,7 +41,10 @@ const FooterPanel = () => {
       <span>
       Training And Placement Officer<br/><a href="mailto:smp.me@nitp.ac.in"> Email: smp.me@nitp.ac.in
       </a><br/> <a href="https://www.linkedin.com/in/dr-shailesh-m-pandey-34961820"> Linkedin: @dr-shailesh-m-pandey-34961820
-      </a><br/><a href="tel:8750111166"> Mobile No.: 8750111166
+      </a><br/>
+      <a href="https://www.facebook.com/shaileshmpandey"> Facebook: @shaileshmpandey
+      </a><br/>
+      <a href="tel:8750111166"> Mobile No.: 8750111166
       </a><br/>
        </span>
       <br/><br/>

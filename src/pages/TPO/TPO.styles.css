@@ -27,7 +27,8 @@
 }
 .credit {
   padding-bottom: 10px;
-  text-align: right;
+  text-align: center;
+  color: rgb(233, 227, 227);
 }
 @media only screen and (max-width: 500px) {
   .body-text {
