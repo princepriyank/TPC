@@ -21,6 +21,10 @@ const Seat = () => {
           </Col>
         </Row>
       </Container>
+      <br/>
+      <div className="Note">
+        <h4><center>
+      Note: We provide Phd courses in all streams of Btech and Mtech.</center></h4></div>
     </div>
   );
 };

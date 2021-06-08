@@ -79,11 +79,8 @@ function App() {
           </Fade>
         </Container>
       </div>
-      
-        <Fade duration={500}>
           <hr />
           <FooterPanel />
-        </Fade>
       
     </div>
     </div>
