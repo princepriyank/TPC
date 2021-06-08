@@ -32,7 +32,7 @@ NIT Patna marked its humble beginning in 1886 and it is the 6th Oldest Engineeri
                   <div>
                     <a href="#footer">
                       <Button className="m-2" variant="outline-primary">
-                       Contact US
+                       Contact us
                       </Button>
                     </a>
                   </div>

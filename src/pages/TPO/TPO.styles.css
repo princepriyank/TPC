@@ -1,0 +1,54 @@
+/** @format */
+#TPO {
+  background-color: black;
+  width: 100%;
+}
+.Text {
+  color: white;
+}
+.profile {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  max-width: 18em;
+  padding-top: 70px;
+}
+.body-text {
+  color: rgb(165, 161, 161);
+  font-size: large;
+  text-align: justify;
+  margin: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.profile-div {
+  align-items: center;
+  padding: auto;
+  margin: auto;
+}
+.credit {
+  padding-bottom: 10px;
+  text-align: right;
+}
+@media only screen and (max-width: 500px) {
+  .body-text {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+.body-text-sub {
+  color: gray;
+  font-size: large;
+  text-align: justify;
+  margin: 10px;
+  padding: 5px;
+  padding-bottom: 20px;
+}
+.icon {
+  color: #2bbbad;
+}
+.sub-heading {
+  color: white;
+}
+.high {
+  color: #2bbbad;
+}

@@ -68,14 +68,14 @@ const TitleMessage = () => (
                     </a>
                   </div>
                   <div>
-                    <a href="https://drive.google.com/file/d/1ak6N26arrYtVso0FZrlLJAv98lhSLKqC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1EqNnX3XcwNZha0Oipi0TgXP8eor6jUZy/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-info">
                         Training letter II year
                       </Button>
                     </a>
                   </div>
                   <div>
-                    <a href="https://drive.google.com/file/d/1ak6N26arrYtVso0FZrlLJAv98lhSLKqC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1G3FdDJB2YqDximffgq2pT1zFGgkBOsof/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-info">
                       Training letter III year
                       </Button>
@@ -84,7 +84,7 @@ const TitleMessage = () => (
                 </Col>
                 <Col className="d-flex justify-content-center flex-wrap">
                 <div>
-                    <a href="https://drive.google.com/file/d/1ak6N26arrYtVso0FZrlLJAv98lhSLKqC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/16vcA3Og3Nhzf5rdLQnvsBvfI4iN7jSyP/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-info">
                       Job Notification Form
                       </Button>

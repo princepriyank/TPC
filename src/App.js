@@ -2,6 +2,8 @@ import MyNavbar from "./components/my-navbar/my-navbar.component";
 import MyCarousal from "./components/my-carousal/my-carousal.component";
 import MyTitleMessage from "./components/title-message/title-message.component";
 import About from "./pages/about/about.component";
+import Director from "./pages/Director/director.component";
+import TPO from "./pages/TPO/TPO.component";
 import Recruiters from "./pages/Recruiters/Recruiters.component";
 import Highlights from "./pages/Highlights/highlights.component";
 import Container from "react-bootstrap/Container";
@@ -41,6 +43,16 @@ function App() {
           <hr />
           <Highlights />
           <div>
+          <div>
+            <Container className="container-box rounded">
+              <Fade duration={500}>
+                <Director/>
+              </Fade>
+            </Container>
+          </div>
+          <div>
+                <TPO/>
+          </div>
         <Container className="container-box rounded">
           <Fade duration={500}>
             <hr />
