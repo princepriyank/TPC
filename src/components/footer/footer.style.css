@@ -18,9 +18,13 @@ a:link {
 .detail {
   padding-bottom: 30px;
   color: rgb(197, 194, 194);
+  padding: 10px;
+  border-radius: 3px;
 }
 .detail:hover {
   color: white;
+  background-color: rgb(43, 42, 42);
+  box-shadow: cornsilk;
 }
 .link {
   text-decoration: none !important;

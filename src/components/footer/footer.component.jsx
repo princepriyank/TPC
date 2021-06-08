@@ -12,9 +12,6 @@ const FooterPanel = () => {
     <div className="footer" id="footer">
       <center><h1>Contact</h1>
       <h4 className="text-sub">Reach out to us via:</h4>
-      <a  href="tel:8750111166">
-      <i class="fas fa-phone-alt">   Phone: +91: 8750111166</i>
-      </a><br/>
       <a href="mailto:tpc.tnp@nitp.ac.in">
       <i class="fas fa-envelope-open" >  Email: tpc.tnp@nitp.ac.in</i>
       </a><br/>
@@ -27,14 +24,24 @@ const FooterPanel = () => {
         <Image className="justify-content-end avatar" alt="profile" src={Profile} fluid  />
       <h4>Dr. Samrat Mukherjee</h4>
       <span>Training And Placement Officer<br/>
-        Email: samrat@nitp.ac.in</span>
+      <a href="mailto:samrat@nitp.ac.in"> Email: samrat@nitp.ac.in
+      </a><br/>
+      <a href="https://www.linkedin.com/in/samrat-mukherjee-9348b0124"> Linkedin: @samrat-mukherjee-9348b0124
+      </a><br/>
+      <a href="tel:9973791523"> Mobile No.: 9973791523
+      </a><br/>
+        </span>
       <br/><br/>
           </Col>
           <Col sm={12} md={6}>
         <Image className="justify-content-end avatar" alt="profile" src={Profile2} fluid  />
       <h4>Dr. Shailesh M. pandey</h4>
       <span>
-      Training And Placement Officer<br/>  Email: smp.me@nitp.ac.in</span>
+      Training And Placement Officer<br/><a href="mailto:smp.me@nitp.ac.in"> Email: smp.me@nitp.ac.in
+      </a><br/> <a href="https://www.linkedin.com/in/dr-shailesh-m-pandey-34961820"> Linkedin: @dr-shailesh-m-pandey-34961820
+      </a><br/><a href="tel:8750111166"> Mobile No.: 8750111166
+      </a><br/>
+       </span>
       <br/><br/>
           </Col></Row>
           </Container>
@@ -47,6 +54,9 @@ const FooterPanel = () => {
           {data.map((detail)=>(
             <Col xs={12} sm={6} md={4}>
               <div class="detail">
+                <center>
+              <Image className="justify-content-end avatar" alt="profile" src={detail.image} fluid  /></center>
+              <br/>
               <h5>{detail.name}</h5>
               <h6>{detail.branch}</h6>
               

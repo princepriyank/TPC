@@ -6,6 +6,7 @@ import Recruiters from "./pages/Recruiters/Recruiters.component";
 import Highlights from "./pages/Highlights/highlights.component";
 import Container from "react-bootstrap/Container";
 import Stats from "./pages/Stats/Stats.component";
+import Seat from "./pages/Seat/Seat.component";
 import Fade from "react-reveal/Fade";
 import { Parallax } from "react-parallax";
 import FooterPanel from "./components/footer/footer.component";
@@ -39,6 +40,15 @@ function App() {
       </div>
           <hr />
           <Highlights />
+          <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <hr />
+
+            <Seat />
+          </Fade>
+        </Container>
+      </div>
       <div>
         <Container className="container-box rounded">
           <Fade duration={500}>

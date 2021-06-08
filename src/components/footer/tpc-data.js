@@ -7,6 +7,7 @@ export const data=[
     branch:"B.tech(Computer Science Engineering)",
     linkedin:"https://www.linkedin.com/in/unicorn09",
     linkedinid:"@unicorn09",
+    image: "harsh.JPG"
 },
 {
     name: "Kumar Harsh",
@@ -16,6 +17,7 @@ export const data=[
     branch:"B.tech(Computer Science Engineering)",
     linkedin:"https://www.linkedin.com/in/krharsh17",
     linkedinid:"@krharsh17",
+    image: "kumar.jpg"
 },
 {
     name: "Uday Krishna Padmanabhuni",
@@ -25,6 +27,7 @@ export const data=[
     branch:"B.tech(Computer Science Engineering)",
     linkedin:"https://www.linkedin.com/in/uday-krishna-p/",
     linkedinid:"@uday-krishna-p",
+    image: "uday.jpg"
 },
 {
     name: "Shivani Singh",
@@ -34,6 +37,7 @@ export const data=[
     branch:"B.tech(Electronics and Communication Engineering)",
     linkedin:"https://www.linkedin.com/in/shivani-singh-7a4a031a9",
     linkedinid:"@shivani-singh-7a4a031a9",
+    image: "shivani.jpg"
 },
 {
     name: "Rishav Raj",
@@ -43,6 +47,7 @@ export const data=[
     branch:"B.tech(Mechanical Engineering)",
     linkedin:"https://www.linkedin.com/in/rishavraj01",
     linkedinid:"@rishavraj01",
+    image: "rishav.jpg"
 },
 {
     name: "Aditi Chawla",
@@ -52,6 +57,7 @@ export const data=[
     branch:"B.tech(Mechanical Engineering)",
     linkedin: "https://www.linkedin.com/in/aditi-chawla-b925a8195/",
     linkedinid:"@aditi-chawla-b925a8195",
+    image: "aditi.jpg"
 },
 {
     name: "Robin Pal",
@@ -61,6 +67,7 @@ export const data=[
     branch:"B.tech(Civil Engineering)",
     linkedin:"https://www.linkedin.com/in/robin-pal-b12076190",
     linkedinid:"@robin-pal-b12076190",
+    image: "robin.jpg"
 },
 {
     name: "Aditya Jha",
@@ -70,6 +77,7 @@ export const data=[
     branch:"B.tech(Civil Engineering)",
     linkedin:"https://www.linkedin.com/in/aditya-jha-67383120b",
     linkedinid:"@aditya-jha-67383120b",
+    image: "aditya.jpg"
 },
 {
     name: "Prateek Gupta",
@@ -79,5 +87,6 @@ export const data=[
     branch:"Integrated M.Sc.",
     linkedin:"https://www.linkedin.com/in/prateekgu/",
     linkedinid:"@prateekgu",
+    image: "Prateek.jpg"
 },
 ];

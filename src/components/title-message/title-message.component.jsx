@@ -56,7 +56,7 @@ const TitleMessage = () => (
                   <div>
                     <a href="#footer">
                       <Button className="m-2" variant="outline-info">
-                       Contact US
+                       Contact us
                       </Button>
                     </a>
                   </div>
@@ -67,7 +67,29 @@ const TitleMessage = () => (
                       </Button>
                     </a>
                   </div>
-                  
+                  <div>
+                    <a href="https://drive.google.com/file/d/1ak6N26arrYtVso0FZrlLJAv98lhSLKqC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                      <Button className="m-2" variant="outline-info">
+                        Training letter II year
+                      </Button>
+                    </a>
+                  </div>
+                  <div>
+                    <a href="https://drive.google.com/file/d/1ak6N26arrYtVso0FZrlLJAv98lhSLKqC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                      <Button className="m-2" variant="outline-info">
+                      Training letter III year
+                      </Button>
+                    </a>
+                  </div>
+                </Col>
+                <Col className="d-flex justify-content-center flex-wrap">
+                <div>
+                    <a href="https://drive.google.com/file/d/1ak6N26arrYtVso0FZrlLJAv98lhSLKqC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                      <Button className="m-2" variant="outline-info">
+                      Job Notification Form
+                      </Button>
+                    </a>
+                  </div>
                 </Col>
       </div>
     </div>

@@ -25,6 +25,7 @@ const MyNavbar = () => {
               <Nav.Link href="#home">Home</Nav.Link>
               <Nav.Link href="#about">About</Nav.Link>
               <Nav.Link href="#Highlights">Highlights</Nav.Link>
+              <Nav.Link href="#Seat">Seat Matrix</Nav.Link>
               <Nav.Link href="#Stats">Placement Statistics</Nav.Link>
               <Nav.Link href="#Recruiters">Our Recruiters</Nav.Link>
               <Nav.Link href="#footer">Contact</Nav.Link>
