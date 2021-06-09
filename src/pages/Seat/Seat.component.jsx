@@ -20,12 +20,12 @@ const Seat = () => {
           <Image src={Seat2} fluid/>
           </Col>
         </Row>
-      </Container>
+      
       <br/>
       <div className="Note">
-        <h5><center>
-      <b>Note:</b> NITP offers PhD program in Mechanical/electrical/CSE/Civil/Architecture/Physics and Chemistry.</center></h5></div>
-      <hr/>
+        <h4><center>
+      Note: NITP offers PhD program in Mechanical/Electrical/CSE/Civil/Architecture/Physics and Chemistry</center></h4></div>
+      </Container>
     </div>
   );
 };
