@@ -22,9 +22,7 @@ const Seat = () => {
         </Row>
       
       <br/>
-      <div className="Note">
-        <h4><center>
-      Note: NITP offers PhD program in Mechanical/Electrical/CSE/Civil/Architecture/Physics and Chemistry</center></h4></div>
+      
       </Container>
     </div>
   );
