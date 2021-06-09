@@ -7,7 +7,7 @@ export const data=[
     branch:"B.tech(Computer Science Engineering)",
     linkedin:"https://www.linkedin.com/in/unicorn09",
     linkedinid:"@unicorn09",
-    image: "harsh.JPG"
+    image: "harsh.png"
 },
 {
     name: "Kumar Harsh",

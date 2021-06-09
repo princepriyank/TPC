@@ -9,6 +9,9 @@ import Highlights from "./pages/Highlights/highlights.component";
 import Container from "react-bootstrap/Container";
 import Stats from "./pages/Stats/Stats.component";
 import Seat from "./pages/Seat/Seat.component";
+import Students from "./pages/Students/Students.component"
+import Procedure from "./pages/Procedure/Procedure.component"
+import FAQs from "./pages/FAQs/Faqs.component"
 import Fade from "react-reveal/Fade";
 import { Parallax } from "react-parallax";
 import FooterPanel from "./components/footer/footer.component";
@@ -41,7 +44,7 @@ function App() {
         </Parallax>
       </div>
           <hr />
-          <Highlights />
+         
           <div>
           <div>
             <Container className="container-box rounded">
@@ -52,7 +55,9 @@ function App() {
           </div>
           <div>
                 <TPO/>
+
           </div>
+          <Highlights />
         <Container className="container-box rounded">
           <Fade duration={500}>
             <hr />
@@ -76,6 +81,31 @@ function App() {
             <hr />
 
             <Recruiters />
+          </Fade>
+        </Container>
+      </div>
+      <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <hr />
+            <Students />
+          </Fade>
+        </Container>
+      </div>
+      <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <hr />
+            <Procedure />
+          </Fade>
+        </Container>
+      </div>
+      <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <hr />
+
+            <FAQs />
           </Fade>
         </Container>
       </div>

@@ -29,6 +29,9 @@ const MyNavbar = () => {
               <Nav.Link href="#Seat">Seat Matrix</Nav.Link>
               <Nav.Link href="#Stats">Placement Statistics</Nav.Link>
               <Nav.Link href="#Recruiters">Our Recruiters</Nav.Link>
+              <Nav.Link href="#Students">Students</Nav.Link>
+              <Nav.Link href="#Procedure">Procedure</Nav.Link>
+              <Nav.Link href="#FAQs">FAQs</Nav.Link>
               <Nav.Link href="#footer">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
