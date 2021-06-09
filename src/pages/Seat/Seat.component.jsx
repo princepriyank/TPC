@@ -23,8 +23,9 @@ const Seat = () => {
       </Container>
       <br/>
       <div className="Note">
-        <h4><center>
-      Note: We provide Phd courses in all streams of Btech and Mtech.</center></h4></div>
+        <h5><center>
+      <b>Note:</b> NITP offers PhD program in Mechanical/electrical/CSE/Civil/Architecture/Physics and Chemistry.</center></h5></div>
+      <hr/>
     </div>
   );
 };
