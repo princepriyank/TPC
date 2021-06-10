@@ -10,7 +10,7 @@ const MyNavbar = () => {
       <Navbar
         fixed="top"
         variant="dark"
-        expand="md"
+        expand="xl"
         className="animate-navbar nav-theme justify-content-between"
       >
         <div>
