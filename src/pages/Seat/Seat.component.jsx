@@ -14,10 +14,12 @@ const Seat = () => {
       <Container>
         <Row>
           <Col sm={12} md={6}>
-          <Image src={Seat1} fluid/>
+          <Image src={Seat1} fluid/><br/>
+          <center>Btech Seat Matrix</center>
           </Col>
           <Col sm={12} md={6}>
-          <Image src={Seat2} fluid/>
+          <Image src={Seat2} fluid/><br/>
+          <center>Mtech Seat Matrix</center>
           </Col>
         </Row>
       <marquee className="marked"><b>Note:</b>  NITP offers PhD program in Mechanical/Electrical/CSE/Civil/Architecture/Physics and Chemistry.</marquee>

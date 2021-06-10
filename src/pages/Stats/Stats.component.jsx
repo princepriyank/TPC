@@ -14,10 +14,14 @@ const Stats = () => {
       <Container>
         <Row>
           <Col sm={12} md={6}>
-          <Image src={Placement1} fluid/>
+          <Image className="mar" src={Placement1} fluid/>
+          <br/>
+          <center>Total Students Registered Vs. Total Job Offered</center>
           </Col>
           <Col sm={12} md={6}>
-          <Image src={Placement2} fluid/>
+          <Image className="mar" src={Placement2} fluid/>
+          <br/>
+          <center>Average Package Department-wise</center>
           </Col>
         </Row>
       </Container>

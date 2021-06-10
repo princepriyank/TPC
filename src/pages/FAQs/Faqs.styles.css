@@ -1,8 +1,13 @@
-.toggle{
-    width: 100%;
-    cursor: pointer;
+/** @format */
+
+.toggle {
+  width: 100%;
+  cursor: pointer;
 }
 
-.accordion_class{
-    width: 100%;
+.accordion_class {
+  width: 100%;
+}
+#FAQs {
+  padding: 10px;
 }

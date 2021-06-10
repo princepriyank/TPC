@@ -68,13 +68,11 @@ function App() {
         </Container>
       </div>
       <div>
-        <Container className="container-box rounded">
           <Fade duration={500}>
             <hr />
 
             <Stats />
           </Fade>
-        </Container>
       </div>
       <div>
       <Container className="container-box rounded">

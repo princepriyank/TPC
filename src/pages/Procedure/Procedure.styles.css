@@ -2,10 +2,11 @@
 
 .c {
   background-color: black;
-  color: rgb(170, 167, 167);
+  color: rgb(207, 204, 204);
   width: 100%;
   font-size: large;
   margin: 0;
+  padding: 20px;
 }
 .white {
   color: white;
