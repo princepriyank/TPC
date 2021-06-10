@@ -1,0 +1,12 @@
+/** @format */
+
+.c {
+  background-color: black;
+  color: rgb(170, 167, 167);
+  width: 100%;
+  font-size: large;
+  margin: 0;
+}
+.white {
+  color: white;
+}

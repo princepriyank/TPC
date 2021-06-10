@@ -53,6 +53,7 @@ function App() {
               </Fade>
             </Container>
           </div>
+          <div></div>
           <div>
                 <TPO/>
 
@@ -93,13 +94,10 @@ function App() {
         </Container>
       </div>
       <div>
-        <Container className="container-box rounded">
-          <Fade duration={500}>
-            <hr />
+       
             <Procedure />
-          </Fade>
-        </Container>
-      </div>
+        
+        </div>
       <div>
         <Container className="container-box rounded">
           <Fade duration={500}>

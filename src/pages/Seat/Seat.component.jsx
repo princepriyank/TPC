@@ -20,7 +20,7 @@ const Seat = () => {
           <Image src={Seat2} fluid/>
           </Col>
         </Row>
-      
+      <marquee className="marked"><b>Note:</b>  NITP offers PhD program in Mechanical/Electrical/CSE/Civil/Architecture/Physics and Chemistry.</marquee>
       <br/>
       
       </Container>
