@@ -40,7 +40,7 @@ const MyNavbar = () => {
                 <NavDropdown.Item href="#c">Recruiters</NavDropdown.Item>
                 <NavDropdown.Item href="#Students">Students</NavDropdown.Item>
               </NavDropdown>
-              <Nav.Link href="#Highlights">Highlights</Nav.Link>
+              <Nav.Link href="#Highlights">Why NITP?</Nav.Link>
               <Nav.Link href="#Seat">Seat Matrix</Nav.Link>
               <Nav.Link href="#Stats">Placement Statistics</Nav.Link>
               <Nav.Link href="#FAQs">FAQs</Nav.Link>
