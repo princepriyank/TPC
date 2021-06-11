@@ -6,6 +6,7 @@ import "./Student.styles.css";
 const Student = () => {
     return (
         <div id="Students">
+            
             <center><h1 className="white">Students</h1></center>
             <Container>
                 <br />

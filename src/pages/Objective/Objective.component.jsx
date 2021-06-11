@@ -6,17 +6,18 @@ import "./Objective.styles.css";
 const Objective = () => {
     return (
         <div id="Objective">
+            
+            <hr color="white"/>
             <Container>
-                <br />
                 <center><h1 className="white">Vision</h1>
                 <Row>
                 <span className="high">Equipping the students with relevant and conceptualized professional skills and guiding them towards a bright future and career all around the world with the values of – Sincerity, Hard Work and Justice.</span>
                 </Row></center>
 
                 <br />
-
+                <hr color="white" width="100%"/>
             </Container>
-            <hr color="white" width="100%"/>
+            
             <Container id="Mission">
                 <br />
                 <center><h1 className="white">Mission</h1></center>

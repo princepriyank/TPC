@@ -6,7 +6,7 @@ import "./Procedure.styles.css";
 const Procedure = () => {
     return (
         <div id="c" className="c">
-            <center><h1 className="white">Procedure</h1></center>
+            <center><h1 className="white">PROCEDURE</h1></center>
             <hr color="white" width="80%"/>
             <br></br>
 
@@ -41,7 +41,7 @@ const Procedure = () => {
                 </Row>
 
                 <br />
-
+                <hr color="white" width="100%"/>
             </Container>
         </div>
     );

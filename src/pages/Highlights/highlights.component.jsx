@@ -6,7 +6,9 @@ import Col from "react-bootstrap/Col";
 const Highlights = () => {
   return (
     <div id="Highlights">
+      
       <div className="Text pt-3 text-center font-details pb-3">
+      <hr color="white" width="100%"/>
           <h1>
             Why Recruit at NITP?
           </h1>

@@ -61,6 +61,7 @@ function App() {
           </div>
           <div>
               <Fade duration={500}>
+                
                 <Objective />
               </Fade>
           </div>
