@@ -4,7 +4,7 @@ export const data=[
     mobile: "7254043940",
     email:"mailto:harshraj.ug18.cs@nitp.ac.in",
     emailid:"harshraj.ug18.cs@nitp.ac.in",
-    branch:"B.tech(Computer Science Engineering)",
+    branch:"B.Tech(Computer Science Engineering)",
     linkedin:"https://www.linkedin.com/in/unicorn09",
     linkedinid:"@unicorn09",
     image: "harsh.png"
@@ -14,7 +14,7 @@ export const data=[
     mobile: "8757884140",
     email:"mailto:kumarh.ug18.cs@nitp.ac.in",
     emailid:"kumarh.ug18.cs@nitp.ac.in",
-    branch:"B.tech(Computer Science Engineering)",
+    branch:"B.Tech(Computer Science Engineering)",
     linkedin:"https://www.linkedin.com/in/krharsh17",
     linkedinid:"@krharsh17",
     image: "kumar.jpg"
@@ -24,7 +24,7 @@ export const data=[
     mobile: "7382011668",
     emailid:"uday.ug18.cs@nitp.ac.in",
     email:"mailto:uday.ug18.cs@nitp.ac.in",
-    branch:"B.tech(Computer Science Engineering)",
+    branch:"B.Tech(Computer Science Engineering)",
     linkedin:"https://www.linkedin.com/in/uday-krishna-p/",
     linkedinid:"@uday-krishna-p",
     image: "uday.jpg"
@@ -34,7 +34,7 @@ export const data=[
     mobile: "9162190212",
     emailid:"shivanis.ug18.ec@nitp.ac.in",
     email:"mailto:shivanis.ug18.ec@nitp.ac.in",
-    branch:"B.tech(Electronics and Communication Engineering)",
+    branch:"B.Tech(Electronics and Communication Engineering)",
     linkedin:"https://www.linkedin.com/in/shivani-singh-7a4a031a9",
     linkedinid:"@shivani-singh-7a4a031a9",
     image: "shivani.png"
@@ -44,7 +44,7 @@ export const data=[
     mobile: "7321959224",
     email:"mailto:rishavr.ug18.me@nitp.ac.in",
     emailid:"rishavr.ug18.me@nitp.ac.in",
-    branch:"B.tech(Mechanical Engineering)",
+    branch:"B.Tech(Mechanical Engineering)",
     linkedin:"https://www.linkedin.com/in/rishavraj01",
     linkedinid:"@rishavraj01",
     image: "rishav.jpg"
@@ -54,7 +54,7 @@ export const data=[
     mobile: "9993957128",
     email:"mailto:aditic.ug18.me@nitp.ac.in",
     emailid:"aditic.ug18.me@nitp.ac.in",
-    branch:"B.tech(Mechanical Engineering)",
+    branch:"B.Tech(Mechanical Engineering)",
     linkedin: "https://www.linkedin.com/in/aditi-chawla-b925a8195/",
     linkedinid:"@aditi-chawla-b925a8195",
     image: "aditi.jpg"
@@ -64,7 +64,7 @@ export const data=[
     mobile: "7007921106",
     email:"mailto:Robinp.ug18.ce@nitp.ac.in",
     emailid:"robinp.ug18.ce@nitp.ac.in",
-    branch:"B.tech(Civil Engineering)",
+    branch:"B.Tech(Civil Engineering)",
     linkedin:"https://www.linkedin.com/in/robin-pal-b12076190",
     linkedinid:"@robin-pal-b12076190",
     image: "robin.jpg"
@@ -74,7 +74,7 @@ export const data=[
     mobile: "8521713497",
     email:"mailto:adityaj.ug18.ce@nitp.ac.in",
     emailid:"adityaj.ug18.ce@nitp.ac.in",
-    branch:"B.tech(Civil Engineering)",
+    branch:"B.Tech(Civil Engineering)",
     linkedin:"https://www.linkedin.com/in/aditya-jha-67383120b",
     linkedinid:"@aditya-jha-67383120b",
     image: "aditya.jpg"
