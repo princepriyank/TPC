@@ -37,7 +37,7 @@ const MyNavbar = () => {
               <Nav.Link href="#Highlights">Highlights</Nav.Link>
 
               <NavDropdown title="Procedure" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#Procedure">Recruiters</NavDropdown.Item>
+                <NavDropdown.Item href="#c">Recruiters</NavDropdown.Item>
                 <NavDropdown.Item href="#Students">Students</NavDropdown.Item>
               </NavDropdown>
               <Nav.Link href="#Seat">Seat Matrix</Nav.Link>
