@@ -1,0 +1,13 @@
+/** @format */
+
+#Objective {
+  background-color: black;
+  color: rgb(219, 217, 217);
+  width: 100%;
+  font-size: large;
+  margin: 0;
+  padding: 20px;
+}
+.white {
+  color: white;
+}

@@ -29,6 +29,9 @@ const Student = () => {
                         <li>
                             Students have to<span className="high">undergo internship for duration of 4-6 weeks (June-July) during summer vacations</span> , after sixth semester, for all branches of engineering.
                         </li>
+                        <li>
+                        Students need to <span className="high">download the template of Training letter for Industrial training/Internship</span> from this website and after duly filling it they have to apply it in placement cell . The training letter should be processed within a week.
+                        </li>
                     </ul>
                 </Row>
 

@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "react-bootstrap/Image";
-import Seat1 from "../../assets/img/seat/seat1.png";
-import Seat2 from "../../assets/img/seat/seat2.png";
+import Seat1 from "../../assets/img/seat/seat1.PNG";
+import Seat2 from "../../assets/img/seat/seat2.PNG";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -19,7 +19,7 @@ const Seat = () => {
           </Col>
           <Col sm={12} md={6}>
           <Image src={Seat2} fluid/><br/>
-          <center>M.Tech Seat Matrix</center>
+          <center>Seat Composition</center>
           </Col>
         </Row>
       <marquee className="marked"><b>Note:</b>  NITP offers PhD program in Mechanical/Electrical/CSE/Civil/Architecture/Physics and Chemistry.</marquee>

@@ -9,6 +9,7 @@ import Highlights from "./pages/Highlights/highlights.component";
 import Container from "react-bootstrap/Container";
 import Stats from "./pages/Stats/Stats.component";
 import Seat from "./pages/Seat/Seat.component";
+import Objective from "./pages/Objective/Objective.component";
 import Students from "./pages/Students/Students.component"
 import Procedure from "./pages/Procedure/Procedure.component"
 import FAQs from "./pages/FAQs/Faqs.component"
@@ -58,14 +59,13 @@ function App() {
                 <TPO/>
 
           </div>
+          <div>
+              <Fade duration={500}>
+                <Objective />
+              </Fade>
+          </div>
           <Highlights />
-        <Container className="container-box rounded">
-          <Fade duration={500}>
-            <hr />
-
-            <Seat />
-          </Fade>
-        </Container>
+        
       </div>
 
       <div>
@@ -78,6 +78,14 @@ function App() {
             <Students />
           </Fade>
       </div>
+   <Container className="container-box rounded">
+          <Fade duration={500}>
+            <hr />
+
+            <Seat />
+          </Fade>
+        </Container>
+  
       <div>
           <Fade duration={500}>\
 
