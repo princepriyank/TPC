@@ -6,9 +6,9 @@ import "./Objective.styles.css";
 const Objective = () => {
     return (
         <div id="Objective">
-            <center><h1 className="white">OBJECTIVE</h1></center>
+            {/* <center><h1 className="white">OBJECTIVE</h1></center> */}
             <Container>
-                <hr color="white" width="80%"/>
+                {/* <hr color="white" width="80%"/> */}
                 <br />
                 <center><h1 className="white">Vision</h1>
                 <Row>

@@ -25,7 +25,7 @@ const MyNavbar = () => {
             <Nav className="mr-auto ">
               <Nav.Link href="#home">Home</Nav.Link>
               <Nav.Link href="#about">About</Nav.Link>
-              <NavDropdown title="Patron's Message" id="basic-nav-dropdown">
+              <NavDropdown title="Message" id="basic-nav-dropdown">
                 <NavDropdown.Item href="#director">Director's Message</NavDropdown.Item>
                 <NavDropdown.Item href="#TPO">P.I. Message</NavDropdown.Item>
                 <NavDropdown.Item href="#PI">TPO Message</NavDropdown.Item>
@@ -33,14 +33,15 @@ const MyNavbar = () => {
               <NavDropdown title="Objective" id="basic-nav-dropdown">
                 <NavDropdown.Item href="#Objective">Vision</NavDropdown.Item>
                 <NavDropdown.Item href="#Mission">Mission</NavDropdown.Item>
-              </NavDropdown>
-              <Nav.Link href="#Highlights">Highlights</Nav.Link>
 
+              </NavDropdown>
               <NavDropdown title="Procedure" id="basic-nav-dropdown">
                 <NavDropdown.Item href="#Procedure">Recruiters</NavDropdown.Item>
                 <NavDropdown.Item href="#Students">Students</NavDropdown.Item>
-              </NavDropdown>
+              </NavDropdown>  
+                         
               <Nav.Link href="#Seat">Seat Matrix</Nav.Link>
+              <Nav.Link href="#Highlights">Why NITP?</Nav.Link>
               <Nav.Link href="#Stats">Placement Statistics</Nav.Link>
               <Nav.Link href="#FAQs">FAQs</Nav.Link>
               <Nav.Link href="#footer">Contact</Nav.Link>
