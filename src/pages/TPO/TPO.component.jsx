@@ -43,10 +43,10 @@ students.NIT Patna has been achieving & setting benchmarks not only for its exce
           <hr color="white"></hr>
           <Row>
           <Col sm={12} md={6}>
-                <div className="profile-div">
+                <div className="profile-div" id="PI">
                   <center>
                 <Image className="profiletpo justify-content-end" alt="profile" src={Profile2} fluid />
-                <div className="credit">Dr. Shailesh M. pandey<br/>
+                <div className="credit">Dr. Shailesh M. Pandey<br/>
 Training Placement Officer
 <br/>
 Training & Placement Cell<br/>

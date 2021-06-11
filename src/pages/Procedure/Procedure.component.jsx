@@ -6,17 +6,11 @@ import "./Procedure.styles.css";
 const Procedure = () => {
     return (
         <div id="c" className="c">
-            <center><h1 className="white">Recruiters</h1></center>
-            <Container>
-                <Row>
-                Owing to its brand value and the performance of the several students recruited every year, it is no surprise that NIT Patna offers great placements. Some of the past recruiters are Amazon, Adobe, Oyo, Oracle, Samsung, Nokia, Sigmoid, Capgemini, Sabre,Infoedge, Infosys, TATA, Factset, Alstom, ZS, L & T,  CGI, Jio, Vedanta, Oneplus, Optum, Virtusa and many more.
-                </Row>
-                
-<hr color="white" width="80%"/>
-            </Container>
+            <center><h1 className="white">Procedure</h1></center>
+            <hr color="white" width="80%"/>
             <br></br>
 
-            <center><h2 className="white">Procedure</h2></center>
+            <center><h1 className="white">Recruiters</h1></center>
             <Container>
                 <br />
                 <Row>

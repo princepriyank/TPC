@@ -23,7 +23,7 @@ const FooterPanel = () => {
         <Row><Col sm={12} md={6}>
         <Image className="justify-content-end avatar" alt="profile" src={Profile} fluid  />
       <h4>Dr. Samrat Mukherjee</h4>
-      <span>Training And Placement Officer<br/>
+      <span>Professor Incharge<br/>
       <a href="mailto:samrat@nitp.ac.in"> Email: samrat@nitp.ac.in
       </a><br/>
       <a href="https://www.linkedin.com/in/samrat-mukherjee-9348b0124"> Linkedin: @samrat-mukherjee-9348b0124
@@ -37,7 +37,7 @@ const FooterPanel = () => {
           </Col>
           <Col sm={12} md={6}>
         <Image className="justify-content-end avatar" alt="profile" src={Profile2} fluid  />
-      <h4>Dr. Shailesh M. pandey</h4>
+      <h4>Dr. Shailesh M. Pandey</h4>
       <span>
       Training And Placement Officer<br/><a href="mailto:smp.me@nitp.ac.in"> Email: smp.me@nitp.ac.in
       </a><br/> <a href="https://www.linkedin.com/in/dr-shailesh-m-pandey-34961820"> Linkedin: @dr-shailesh-m-pandey-34961820

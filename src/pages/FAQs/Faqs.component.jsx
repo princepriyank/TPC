@@ -75,7 +75,7 @@ const FAQs = () => {
                         </Card>
                         <Card>
                             <Accordion.Toggle as={Card.Header} eventKey="6" className="toggle">
-                                Q. How Can I be in contact with Training & Placement Cell of DTU?
+                                Q. How Can I be in contact with Training & Placement Cell of NITP?
                             </Accordion.Toggle>
                             <Accordion.Collapse eventKey="6">
                                 <Card.Body>
@@ -86,7 +86,7 @@ const FAQs = () => {
                                     <br />
                                     Dr. Samrat Mukherjee
                                     <br />
-                                    Training and Placement officer
+                                    Professor Incharge
                                     <br />
                                     Moble: 9771005232	
                                     <br />

@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
+import {NavDropdown} from "react-bootstrap";
 import Nav from "react-bootstrap/Nav";
 import Logo from "../../assets/logow.png";
 import "./my-navbar.styles.css";
@@ -24,13 +25,19 @@ const MyNavbar = () => {
             <Nav className="mr-auto ">
               <Nav.Link href="#home">Home</Nav.Link>
               <Nav.Link href="#about">About</Nav.Link>
-              <Nav.Link href="#Highlights">Highlights</Nav.Link>
-              <Nav.Link href="#director">Patron's Message</Nav.Link>
+              <NavDropdown title="Patron's Message" id="basic-nav-dropdown">
+        <NavDropdown.Item href="#director">Director's Message</NavDropdown.Item>
+        <NavDropdown.Item href="#TPO">P.I. Message</NavDropdown.Item>
+        <NavDropdown.Item href="#PI">TPO Message</NavDropdown.Item>
+      </NavDropdown>
+      <Nav.Link href="#Highlights">Highlights</Nav.Link>
               <Nav.Link href="#Seat">Seat Matrix</Nav.Link>
+      <NavDropdown title="Procedure" id="basic-nav-dropdown">
+        <NavDropdown.Item href="#Procedure">Recruiters</NavDropdown.Item>
+        <NavDropdown.Item href="#Students">Students</NavDropdown.Item>
+      </NavDropdown>
+              
               <Nav.Link href="#Stats">Placement Statistics</Nav.Link>
-              <Nav.Link href="#Recruiters">Our Recruiters</Nav.Link>
-              <Nav.Link href="#Students">Students</Nav.Link>
-              <Nav.Link href="#Procedure">Procedure</Nav.Link>
               <Nav.Link href="#FAQs">FAQs</Nav.Link>
               <Nav.Link href="#footer">Contact</Nav.Link>
             </Nav>

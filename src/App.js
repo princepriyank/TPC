@@ -67,9 +67,19 @@ function App() {
           </Fade>
         </Container>
       </div>
+
       <div>
+       
+       <Procedure />
+   
+   </div>
+   <div>
           <Fade duration={500}>
-            <hr />
+            <Students />
+          </Fade>
+      </div>
+      <div>
+          <Fade duration={500}>\
 
             <Stats />
           </Fade>
@@ -83,19 +93,8 @@ function App() {
           </Fade>
         </Container>
       </div>
-      <div>
-        <Container className="container-box rounded">
-          <Fade duration={500}>
-            <hr />
-            <Students />
-          </Fade>
-        </Container>
-      </div>
-      <div>
-       
-            <Procedure />
-        
-        </div>
+     
+      
       <div>
         <Container className="container-box rounded">
           <Fade duration={500}>

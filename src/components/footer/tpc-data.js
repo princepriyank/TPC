@@ -37,7 +37,7 @@ export const data=[
     branch:"B.tech(Electronics and Communication Engineering)",
     linkedin:"https://www.linkedin.com/in/shivani-singh-7a4a031a9",
     linkedinid:"@shivani-singh-7a4a031a9",
-    image: "shivani.jpg"
+    image: "shivani.png"
 },
 {
     name: "Rishav Raj",
