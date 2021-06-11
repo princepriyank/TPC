@@ -64,11 +64,7 @@ function App() {
                 <Objective />
               </Fade>
           </div>
-          <Highlights />
-        
-      </div>
-
-      <div>
+          <div>
        
        <Procedure />
    
@@ -78,6 +74,11 @@ function App() {
             <Students />
           </Fade>
       </div>
+          <Highlights />
+        
+      </div>
+
+    
    <Container className="container-box rounded">
           <Fade duration={500}>
             <hr />
