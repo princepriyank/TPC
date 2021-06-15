@@ -46,3 +46,6 @@ a:active {
 .icon {
   padding: 5px;
 }
+.white {
+  color: white !important;
+}

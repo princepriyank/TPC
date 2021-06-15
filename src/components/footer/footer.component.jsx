@@ -76,6 +76,8 @@ const FooterPanel = () => {
           
             </Row>
             </Container>
+            <br/>
+            <center>Made with <i class="fas fa-heart"></i> by <a className="white" target="_blank" href="https://linkedin.com/in/princepriyank">Priyank Mishra</a></center>
     </div>
   );
 };
